@@ -10,7 +10,6 @@ body {
 
 p {
   background-color: #237ab4;
-  text-emphasis-color: white;
 }
 
 input[type=text], select, textarea{
